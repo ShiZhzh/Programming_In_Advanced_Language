@@ -1,0 +1,3 @@
+D:/IDE/visual stadio code/C++/exp_10_5.23/lab9_1/build/CMakeFiles/lab9_1.dir
+D:/IDE/visual stadio code/C++/exp_10_5.23/lab9_1/build/CMakeFiles/edit_cache.dir
+D:/IDE/visual stadio code/C++/exp_10_5.23/lab9_1/build/CMakeFiles/rebuild_cache.dir
